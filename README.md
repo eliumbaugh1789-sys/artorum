@@ -10,4 +10,4 @@ Check out Artorum's website: https://www.artorum.org/
 
 View model on Artorum Hugging Face repository: https://huggingface.co/datasets/artorum/model/tree/main
 
-Artorum is a late fusion model which combines ResNet50 (CNN) and ViT-B/16 (Transformer) to make probability ranked predictions. 
+Artorum is a late fusion model which combines ResNet50 (CNN) and ViT-B/16 (Transformer). 
